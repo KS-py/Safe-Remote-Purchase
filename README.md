@@ -6,4 +6,6 @@ An abort method in the contract can be invoked when the contract is created, if 
 
 # SAFE REMOTE PURCHASE 
 Same notion as shown above, but with the custom token "KS Token" on sepolia testnet.
+KS Token address on Sepolia: ### 0xa5f616cA4A391172110DB98F5FE7f1223C0966D0
+
 
